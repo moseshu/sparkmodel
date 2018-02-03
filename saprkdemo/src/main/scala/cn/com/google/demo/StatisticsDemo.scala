@@ -47,7 +47,7 @@ object StatisticsDemo {
     //     run(pram,spark.sparkContext)
     //    testDecisionTree(spark.sparkContext)
     testSqlStreaming(spark)
-//    scoketClient()
+	scoketClient()
   }
 
   def scoketClient(): Unit = {
